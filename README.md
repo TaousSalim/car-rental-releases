@@ -2,7 +2,7 @@
 
 Kira helps small car rental agencies manage their fleet, rentals, availability, maintenance and clients. Everything stays on the agency's own computer. A license key is required after the 30 day free trial.
 
-## Download (version 1.0.1)
+## Download (version 1.0.2)
 
 | Computer | Download |
 |---|---|
