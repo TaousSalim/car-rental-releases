@@ -17,4 +17,6 @@ Windows may show "Windows protected your PC" because the installer is not code s
 
 ### First install on Mac
 
-Open the dmg and drag Kira to Applications. The first time, open the Applications folder, **right click Kira and choose Open**, then click **Open** again. If macOS still refuses, go to System Settings, Privacy and Security, and click **Open Anyway** next to the Kira message.
+1. Open the dmg and drag Kira to Applications.
+2. Double click Kira. macOS says it cannot check it: click **Done**.
+3. Open **System Settings**, **Privacy and Security**, scroll down and click **Open Anyway** next to the Kira message, confirm with your password, then click **Open Anyway** again.
