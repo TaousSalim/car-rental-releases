@@ -2,7 +2,7 @@
 
 Kira helps small car rental agencies manage their fleet, rentals, availability, maintenance and clients. Everything stays on the agency's own computer. Kira needs a key from its supplier to start (trial or licence): when you open it, it shows the code of your computer to send to your supplier.
 
-## Download (version 1.0.3)
+## Download (version 1.0.4)
 
 | Computer | Download |
 |---|---|
